@@ -10,10 +10,11 @@ p {
 .custom-header-media:before {
 background:transparent;
 }
-.custom-header {
+.custom-header, .home .site-branding {
 display:none;
 }
-.home .custom-header {
+
+.home .custom-header, .site-branding {
 display:block;
 }
 /*-- .header stuff --*/
