@@ -9,3 +9,9 @@ p {
 .custom-header-media:before {
 background:transparent;
 }
+.home .custom-header {
+display:none;
+}
+.home .custom-header {
+display:block;
+}
