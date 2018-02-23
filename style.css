@@ -3,6 +3,7 @@
 p {
   font-size: 2rem; 
 }
+/*-- header stuff --*/
 .navigation-top .wrap {
     padding: 0 3.4166666666667em;
 }
@@ -15,3 +16,4 @@ display:none;
 .home .custom-header {
 display:block;
 }
+/*-- .header stuff --*/
