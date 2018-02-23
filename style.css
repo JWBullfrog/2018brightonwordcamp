@@ -14,7 +14,7 @@ background:transparent;
 display:none;
 }
 
-.home .custom-header, .site-branding {
+.home .custom-header{
 display:block;
 }
 /*-- .header stuff --*/
