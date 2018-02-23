@@ -1,4 +1,10 @@
 /*-- here's the WordCamp Brighton theme style --*/
 /* line 3, Users/jeremybrown/Documents/GitHub/2018brightonwordcamp/theme-style.scss */
 p {
-  font-size: 2rem; }
+  font-size: 2rem; 
+}
+
+.navigation-top .wrap {
+    max-width: 1000px;
+    padding: 0 3.4166666666667em;
+}
