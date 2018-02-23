@@ -10,7 +10,7 @@ p {
 .custom-header-media:before {
 background:transparent;
 }
-.custom-header, .home .site-branding {
+.custom-header, .has-header-image.twentyseventeen-front-page .site-branding {
 display:none;
 }
 
