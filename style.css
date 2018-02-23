@@ -10,10 +10,10 @@ p {
 .custom-header-media:before {
 background:transparent;
 }
-.custom-header {
-display:none;
-}
+
 .home .custom-header{
 display:block;
 }
-/*-- .header stuff --*/
+/*-- .header stuff.custom-header {
+display:none;
+} --*/
