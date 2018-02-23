@@ -14,6 +14,9 @@ background:transparent;
 .home .custom-header{
 display:block;
 }
+.home .custom-logo{
+display:none;
+}
 /*-- .header stuff.custom-header {
 display:none;
 } --*/
