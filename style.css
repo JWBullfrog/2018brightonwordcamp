@@ -10,8 +10,10 @@ p {
 .custom-header-media:before {
 background:transparent;
 }
-
-.home .custom-header{
+.wp-custom-header {
+display:none;
+}
+.home .wp-custom-header {
 display:block;
 }
 .home .custom-logo{
