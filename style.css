@@ -22,3 +22,6 @@ display:none;
 /*-- .header stuff.custom-header {
 display:none;
 } --*/
+.home .entry-title {
+display: none;
+}
