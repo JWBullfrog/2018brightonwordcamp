@@ -40,9 +40,9 @@ display: none;
 }
 
 .home .custom-header img {
-	height: calc(100vh - 51px) !important;
+	/*height: calc(100vh - 51px) !important;*/
 }
 .site-header {
 background: url(https://2018.brighton.wordcamp.org/files/2018/02/cropped-Home-full-size-border.png) no-repeat center center fixed;
-	background-size: 100% 100%;
+	background-size: 100% auto;
 }
