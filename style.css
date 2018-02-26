@@ -25,3 +25,20 @@ display:none;
 .home .entry-title {
 display: none;
 }
+/* Menu & Nav Bar styling */
+.wccsp-header,
+.wccsp-footer,
+.navigation-top {
+	background: #33436c;
+	background: -webkit-linear-gradient(to right,#645aee,#dc53eb);
+	background: linear-gradient(to right,#645aee,#dc53eb);
+}
+
+.navigation-top a,
+#site-navigation .menu-toggle {
+	color: #fff;
+}
+
+.home .custom-header img {
+	height: calc(100vh - 51px) !important;
+}
