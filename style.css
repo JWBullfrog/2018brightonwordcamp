@@ -45,7 +45,7 @@ display: none;
 .site-header {
 	padding-bottom:40px;
 }
-.wp-custom-header {
+.custom-header-media {
 background: url(https://2018.brighton.wordcamp.org/files/2018/02/cropped-Home-full-size-border.png) no-repeat center center fixed;
 	background-size: auto 100%;
 }
