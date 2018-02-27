@@ -65,7 +65,7 @@ display: none;
 	background-color: #ffffff;
 }
 
-/* Non-HomePage banner image */
+/* Non-HomePage banner background image */
 .site-header {
 	background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll;
 }
@@ -76,3 +76,11 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/cropped-Home-fu
 	background-size: auto 100%;
 }
 
+/* Persuade the logo to be a bit bigger */
+a.custom-logo-link img {
+	max-height: 150px;
+}
+
+.site-branding {
+	padding: 16px 0 8px;
+}
