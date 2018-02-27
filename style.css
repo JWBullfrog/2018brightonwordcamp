@@ -25,28 +25,52 @@ display:none;
 .home .entry-title {
 display: none;
 }
+
 /* Menu & Nav Bar styling */
+.box-border,
 .wccsp-header,
 .wccsp-footer,
-.navigation-top {
+.navigation-top,
+#colophon.site-footer {
 	background: #645aee;
 	background: -webkit-linear-gradient(to right,#645aee,#dc53eb);
 	background: linear-gradient(to right,#645aee,#dc53eb);
 }
 
 .navigation-top a,
-#site-navigation .menu-toggle {
+#site-navigation .menu-toggle,
+#colophon.site-footer a {
 	color: #fff;
 }
 
-.home .custom-header img {
-	/*height: calc(100vh - 51px) !important;*/
+.navigation-top a:active,
+.navigation-top a:hover,
+.navigation-top .current-menu-item > a,
+.navigation-top .current_page_item > a {
+	color: #FFF347;
 }
 
+.main-navigation ul {
+	background: none;
+}
+
+/* Optional fancy box border with gradient site colours */
+.box-border {
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+.box-content {
+	padding: 10px;
+	background-color: #ffffff;
+}
+
+/* Non-HomePage banner image */
 .site-header {
 	background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll;
 }
 
+/* Main HomePage image */
 .home .site-header {
 background: url(https://2018.brighton.wordcamp.org/files/2018/02/cropped-Home-full-size-border.png) no-repeat center center fixed;
 	background-size: auto 100%;
