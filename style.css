@@ -48,6 +48,6 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/cropped-Home-fu
 	background-size: auto 100%;
 }
 
-.page .site-header {
+not(.home) .site-header {
 	background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll;
 }
