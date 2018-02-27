@@ -29,7 +29,7 @@ display: none;
 .wccsp-header,
 .wccsp-footer,
 .navigation-top {
-	background: #33436c;
+	background: #645aee;
 	background: -webkit-linear-gradient(to right,#645aee,#dc53eb);
 	background: linear-gradient(to right,#645aee,#dc53eb);
 }
@@ -43,11 +43,12 @@ display: none;
 	/*height: calc(100vh - 51px) !important;*/
 }
 
+.site-header {
+	background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll;
+}
+
 .home .site-header {
 background: url(https://2018.brighton.wordcamp.org/files/2018/02/cropped-Home-full-size-border.png) no-repeat center center fixed;
 	background-size: auto 100%;
 }
 
-not(.home) .site-header {
-	background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll;
-}
