@@ -80,7 +80,8 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.
 	
 }
 @media screen and (min-width: 48em) {
-background: none;
+	.has-header-image.twentyseventeen-front-page .custom-header {
+		background: none;}
 }
 /* Persuade the logo to be a bit bigger */
 a.custom-logo-link img {
