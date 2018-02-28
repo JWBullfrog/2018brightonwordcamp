@@ -1,5 +1,4 @@
 /*-- here's the WordCamp Brighton theme style --*/
-/* line 3, Users/jeremybrown/Documents/GitHub/2018brightonwordcamp/theme-style.scss */
 p {
   font-size: 2rem; 
 }
@@ -72,7 +71,7 @@ display: none;
 }
 
 /* Main HomePage image */
-.home .site-header {
+.has-header-image.twentyseventeen-front-page .custom-header {
 background: url(https://2018.brighton.wordcamp.org/files/2018/02/cropped-Home-full-size-border.png) no-repeat center center fixed;
 	background-size: auto 100%;
 }
