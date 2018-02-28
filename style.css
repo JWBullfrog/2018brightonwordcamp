@@ -75,13 +75,13 @@ background:none;
 
 /* Main HomePage image */
 .has-header-image.twentyseventeen-front-page .custom-header {
-background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png) no-repeat center center fixed;
+background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)  no-repeat top center fixed;
 	background-size: auto 100%;
 	
 }
 @media screen and (min-width: 48em) {
 	.has-header-image.twentyseventeen-front-page .custom-header {
-		background: url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.png) no-repeat center center fixed;
+		background: url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.png) no-repeat top center fixed;
 	background-size: auto 100%;}
 }
 /* Persuade the logo to be a bit bigger */
