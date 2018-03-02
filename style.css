@@ -78,8 +78,6 @@ background:none;
 .has-header-image.twentyseventeen-front-page .custom-header {
 background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)  no-repeat top center fixed;
 	background-size: 300px 300px;
-	    max-width: 100px;
-    margin: 0 auto;
 	
 }
 @media screen and (min-width: 48em) {
