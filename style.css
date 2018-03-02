@@ -153,3 +153,21 @@ a.btn:hover {
 	-webkit-box-shadow: none;
 	box-shadow: none;
 }
+
+#panel1 a.btn {
+	color: #dc53eb;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	padding: 7px 20px 10px;
+	background-color: #fff;
+	border: #dc53eb 4px solid;
+	border-radius: 7px;
+	transition: background-color 200ms, color 300ms;
+}
+
+#panel1 a.btn:hover {
+	color: #fff;
+	background-color: #dc53eb;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
