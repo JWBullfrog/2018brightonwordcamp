@@ -25,6 +25,22 @@ display:none;
 display: none;
 }
 
+/* Logo animation (slow rotation) */
+#rotatelogo,
+img.custom-logo {
+	-webkit-animation: rotation 120s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+	from {
+		-webkit-transform: rotate(0deg);
+	}
+	
+	to {
+		-webkit-transform: rotate(359deg);
+	}
+}
+
 /* Menu & Nav Bar styling */
 .box-border,
 .wccsp-header,
