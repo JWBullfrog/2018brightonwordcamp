@@ -1,6 +1,8 @@
 /*-- here's the WordCamp Brighton theme style --*/
-p {
-  font-size: 2rem; 
+p,a,ul {
+	font-size: 1.1em;
+	line-height: 2em;
+	letter-spacing: 2px;
 }
 /*-- header stuff --*/
 .navigation-top .wrap {
@@ -37,7 +39,7 @@ img.custom-logo {
 	}
 	
 	to {
-		-webkit-transform: rotate(359deg);
+		-webkit-transform: rotate(360deg);
 	}
 }
 
