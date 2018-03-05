@@ -85,7 +85,7 @@ img.custom-logo {
 /* Non-HomePage banner background image */
 .site-header {
 	background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll;
-	min-height:300px;
+	max-height:300px;
 }
 .home .site-header {
 background:none;
