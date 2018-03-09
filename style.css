@@ -100,8 +100,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 }
 @media screen and (min-width: 48em) {
 	.has-header-image.twentyseventeen-front-page .wp-custom-header {
-		background: url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.png) 0 0 / cover;
-	background-size: auto 100%;
+	background: url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.png) center center / fixed;
 	height:100%;}
 }
 /* Persuade the logo to be a bit bigger */
