@@ -102,7 +102,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 .has-header-image.twentyseventeen-front-page .wp-custom-header {
 	 
 	     	background:url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.png)    /* image */
-     		top center / auto 100% /* position / size */
+     		top center /* position / size */
      		no-repeat                /* repeat */
      		fixed                    /* attachment */
      		padding-box              /* origin */
