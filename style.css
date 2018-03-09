@@ -99,9 +99,16 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 	
 }
 @media screen and (min-width: 48em) {
-	.has-header-image.twentyseventeen-front-page .wp-custom-header {
-	background: url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.png) center center / fixed;
-	height:100%;}
+.has-header-image.twentyseventeen-front-page .wp-custom-header {
+	 
+	     	background:url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.png)    /* image */
+     		top center / 200px 200px /* position / size */
+     		no-repeat                /* repeat */
+     		fixed                    /* attachment */
+     		padding-box              /* origin */
+     		content-box              /* clip */
+     		red;                     /* color */
+		height:100%;}
 }
 /* Persuade the logo to be a bit bigger */
 a.custom-logo-link img {
