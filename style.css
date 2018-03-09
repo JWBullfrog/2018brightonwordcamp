@@ -113,16 +113,6 @@ a.custom-logo-link img {
 }
 
 /* Home page "sections" background images etc. */
-#panel1 {
-	height: calc(100vh - 69px);
-	background-image: url('https://2018.brighton.wordcamp.org/files/2018/03/WCB18-Greeting-Card-PSD-MockUp.png');
-}
-
-#panel2 {
-	background-color: #dc53eb;
-	color: #B1ABF9;
-	background-image: url('https://2018.brighton.wordcamp.org/files/2018/03/bg2.jpg');
-}
 
 #panel1, #panel2 {
 	background-repeat: no-repeat;
