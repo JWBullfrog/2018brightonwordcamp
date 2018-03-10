@@ -104,7 +104,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 	     	background:url(https://2018.brighton.wordcamp.org/files/2018/02/home-bg-border.png)    /* image */
      		top center  /* position / size */	
      		no-repeat                /* repeat */
-     		fixed                    /* attachment */
+     		scroll                    /* attachment */
      		padding-box              /* origin */
      		content-box              /* clip */
      		white;                     /* color */
