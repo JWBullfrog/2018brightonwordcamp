@@ -108,7 +108,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
      		padding-box              /* origin */
      		content-box              /* clip */
      		white;                     /* color */
-		background-size: 300px 100px, contain;
+		background-size: contain;
 		}
 }
 /* Persuade the logo to be a bit bigger */
