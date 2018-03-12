@@ -133,10 +133,6 @@ a.custom-logo-link img {
 	color: #fff;
 }
 
-#panel1 h2, #panel2 h2 {
-	font-size: 40px;
-}
-
 #panel3 a:not(.btn) {
 	color: #fff;
 	-webkit-box-shadow: inset 0 -1px 0 rgba(255,255,255,1);
