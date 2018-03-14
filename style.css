@@ -43,34 +43,6 @@ img.custom-logo {
 	}
 }
 
-/* Menu & Nav Bar styling */
-.box-border,
-.wccsp-header,
-.wccsp-footer,
-.navigation-top,
-#colophon.site-footer {
-	background: #645aee;
-	background: -webkit-linear-gradient(to right,#645aee,#dc53eb);
-	background: linear-gradient(to right,#645aee,#dc53eb);
-}
-
-.navigation-top a,
-#site-navigation .menu-toggle,
-#colophon.site-footer a {
-	color: #fff;
-}
-
-.navigation-top a:active,
-.navigation-top a:hover,
-.navigation-top .current-menu-item > a,
-.navigation-top .current_page_item > a {
-	color: #FFF347;
-}
-
-.main-navigation ul {
-	background: none;
-}
-
 /* Optional fancy box border with gradient site colours */
 .box-border {
 	padding: 10px;
