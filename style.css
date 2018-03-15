@@ -79,7 +79,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
      		scroll                    /* attachment */
      		padding-box              /* origin */
      		content-box              /* clip */
-     		white;                     /* color */
+     		transparent;                     /* color */
 		background-size: contain;
 		
 		}
