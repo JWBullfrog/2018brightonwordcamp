@@ -70,28 +70,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 	background-size: 300px 300px;
 	
 }
-@media screen and (min-width: 48em) {
-.has-header-image.twentyseventeen-front-page .custom-header {
-	 
-	     	background:url(https://2018.brighton.wordcamp.org/files/2018/03/WCB18-Header-Homepage2.png)    /* image */
-     		top center  /* position / size */	
-     		no-repeat                /* repeat */
-     		scroll                    /* attachment */
-     		padding-box              /* origin */
-     		content-box              /* clip */
-     		transparent;                     /* color */
-		background-size: contain;
-		
-		}
-.has-header-image.twentyseventeen-front-page .site-header{
-			/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e7e7e7+0,cdcdcd+100 */
-		background: #e7e7e7; /* Old browsers */
-		background: -moz-linear-gradient(top, #e7e7e7 0%, #cdcdcd 100%); /* FF3.6-15 */
-		background: -webkit-linear-gradient(top, #e7e7e7 0%,#cdcdcd 100%); /* Chrome10-25,Safari5.1-6 */
-		background: linear-gradient(to bottom, #e7e7e7 0%,#cdcdcd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e7e7', endColorstr='#cdcdcd',GradientType=0 ); /* IE6-9 */
-		}	
-}
+
 @media screen and (min-width: 780px) {
 .has-header-image.twentyseventeen-front-page .custom-header {
 	 
@@ -102,7 +81,15 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
      		padding-box              /* origin */
      		content-box              /* clip */
      		transparent;                     /* color */
-		background-size: contain;		
+		background-size: contain;	
+.has-header-image.twentyseventeen-front-page .site-header{
+			/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e7e7e7+0,cdcdcd+100 */
+		background: #e7e7e7; /* Old browsers */
+		background: -moz-linear-gradient(top, #e7e7e7 0%, #cdcdcd 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(top, #e7e7e7 0%,#cdcdcd 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom, #e7e7e7 0%,#cdcdcd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e7e7', endColorstr='#cdcdcd',GradientType=0 ); /* IE6-9 */
+		}	
 	}
 }
 /* Persuade the logo to be a bit bigger */
