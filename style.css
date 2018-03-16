@@ -82,6 +82,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
      		content-box              /* clip */
      		transparent;                     /* color */
 		background-size: contain;	
+	}
 .has-header-image.twentyseventeen-front-page .site-header{
 			/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e7e7e7+0,cdcdcd+100 */
 		background: #e7e7e7; /* Old browsers */
@@ -90,7 +91,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 		background: linear-gradient(to bottom, #e7e7e7 0%,#cdcdcd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e7e7', endColorstr='#cdcdcd',GradientType=0 ); /* IE6-9 */
 		}	
-	}
+	
 }
 /* Persuade the logo to be a bit bigger */
 a.custom-logo-link img {
