@@ -1,5 +1,5 @@
 /*-- here's the WordCamp Brighton theme style --*/
-p,a {
+p,a:not(#site-navigation) {
 	font-size: 20px;
 	line-height: 36px;
 	letter-spacing: 2px;
