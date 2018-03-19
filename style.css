@@ -58,18 +58,19 @@ img.custom-logo {
 
 /* Non-HomePage banner background image */
 .site-header {
-	background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll;
+	/* background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll; */
+	background: url(https://2018.brighton.wordcamp.org/files/2018/03/WCB2018Sub-Page.jpg) no-repeat center top scroll;
 }
 .home .site-header {
 background:none;
 }
 
-/* Main HomePage image */
+/* Main HomePage image 
 .has-header-image.twentyseventeen-front-page .custom-header {
 background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)  no-repeat center 30% fixed;
 	background-size: 300px 300px;
 	
-}
+} */
 
 @media screen and (min-width: 780px) {
 .has-header-image.twentyseventeen-front-page .custom-header {
