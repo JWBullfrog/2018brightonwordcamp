@@ -4,6 +4,19 @@ p {
 	line-height: 36px;
 	letter-spacing: 2px;
 }
+
+/* hide some stuff we don't want to see */
+span.edit-link,
+#post-2 {
+	visibility: hidden;
+	height: 0;
+}
+
+/* center menu */
+#top-menu.menu {
+	text-align: center;
+}
+
 /*-- header stuff --*/
 .navigation-top .wrap {
     padding: 0 3.4166666666667em;
@@ -99,11 +112,97 @@ a.custom-logo-link img {
 	max-height: 150px;
 }
 
+.site-header {
+/* background: url(https://2018.brighton.wordcamp.org/files/2018/02/banner.01.png) no-repeat center top scroll; */
+	background: url('https://2018.brighton.wordcamp.org/files/2018/03/WCB2018Sub-Page.jpg') no-repeat center top scroll;
+	background-size: contain;
+}
+
 .site-branding {
-	padding: 16px 0 8px;
+	padding: 22vw 0;
 }
 
 /* Home page "sections" background images etc. */
+
+/* Home page "sections" background images etc. */
+#panel1 {
+	background-image: url('https://2018.brighton.wordcamp.org/files/2018/03/WCB18-Greeting-Card-PSD-MockUp.png');
+}
+
+#panel3 {
+	background-image: url('https://2018.brighton.wordcamp.org/files/2018/03/WCB18-Homepage-Pattern.jpg');
+}
+
+#panel1 .panel-content .wrap,
+#panel3 .panel-content .wrap {
+	padding: 60px 0;
+	height: calc(100vh - 76px);
+}
+
+#panel2 .panel-content .wrap {
+	padding: 60px 0;
+}
+
+#panel2 .panel-content .wrap,
+#panel3 .panel-content .wrap {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#panel1 .panel-content .wrap header.entry-header,
+#panel2 .panel-content .wrap header.entry-header {
+	visibility: hidden;
+	height: 0;
+	margin: 0;
+}
+
+h1.entry-title {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 54px !important;
+	letter-spacing: 4px;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+#panel1 h1,
+#panel2 h2,
+#panel3 h2 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 54px;
+	letter-spacing: 4px;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+#panel1 p,
+#panel2 p,
+#panel3 p {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+#panel2 h2 {
+	color: #000;
+	margin-bottom: 30px;
+}
+
+#panel2 p {
+	color: #000;
+	margin-bottom: 30px;
+}
+
+#panel3 h2 {
+	margin-bottom: 30px;
+}
 
 #panel1, #panel2 {
 	background-repeat: no-repeat;
@@ -125,4 +224,30 @@ a.custom-logo-link img {
 #panel3 a:hover:not(.btn) {
 	-webkit-box-shadow: inset 0 0 0 rgba(255,255,255, 0), 0 3px 0 rgba(255,255,255, 1);
 	box-shadow: inset 0 0 0 rgba(255,255,255, 0), 0 3px 0 rgba(255,255,255, 1);
+}
+
+/* buttons - specifically home page */
+a.btn {
+	color: #fff;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	padding: 10px 26px;
+	background-color: #dc53eb;
+	border-radius: 28px;
+	transition: background-color 200ms, color 300ms;
+}
+
+a.btn:hover {
+	color: #fff;
+	background-color: #df75eb;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.btn-align-bottom {
+	position: absolute;
+	bottom: 60px;
+	left: 50%;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
 }
