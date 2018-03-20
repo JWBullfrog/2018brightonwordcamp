@@ -72,7 +72,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 	
 }
 
-@media screen and (min-width: 780px) {
+@media screen and (min-width: 425px) {
 .has-header-image.twentyseventeen-front-page .custom-header {
 	 
 	     	background:url(https://2018.brighton.wordcamp.org/files/2018/03/WCB18-Header-Homepage-transparent.png)    /* image */
