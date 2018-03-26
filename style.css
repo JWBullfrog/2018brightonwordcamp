@@ -78,7 +78,7 @@ img.custom-logo {
 background:none;
 }
 
-/* Main HomePage image */
+/* Main HomePage image 
 .has-header-image.twentyseventeen-front-page .custom-header {
 background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png) 
 		top center  /* position / size */	
@@ -90,8 +90,8 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 		background-size: contain;
 	
 }
-
-@media screen and (min-width: 425px) {
+*/
+@media screen and (min-width: 425px) { }
 .has-header-image.twentyseventeen-front-page .custom-header {
 	 
 	     	background:url(https://2018.brighton.wordcamp.org/files/2018/03/WCB18-Header-Homepage-transparent.png)    /* image */
@@ -112,7 +112,7 @@ background: url(https://2018.brighton.wordcamp.org/files/2018/02/logo-large.png)
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7e7e7', endColorstr='#cdcdcd',GradientType=0 ); /* IE6-9 */
 		}	
 	
-}
+
 /* Persuade the logo to be a bit bigger */
 a.custom-logo-link img {
 	max-height: 150px;
