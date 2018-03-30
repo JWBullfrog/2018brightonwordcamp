@@ -5,6 +5,12 @@ p, li {
 	letter-spacing: 2px;
 }
 
+/* don't make the menu size too big */
+li.menu-item {
+	font-size: 18px;
+	letter-spacing: 0;
+}
+
 /* hide some stuff we don't want to see */
 span.edit-link,
 #post-2 {
