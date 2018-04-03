@@ -7,7 +7,7 @@ p, li {
 
 /* don't make the menu size too big */
 li.menu-item {
-	font-size: 18px;
+	font-size: 15px;
 	letter-spacing: 0;
 }
 
@@ -148,7 +148,7 @@ a.custom-logo-link img {
 #panel1 .panel-content .wrap,
 #panel3 .panel-content .wrap {
 	padding: 60px 0;
-	height: calc(100vh - 74px);
+	height: calc(100vh - 68px);
 }
 
 #panel2 .panel-content .wrap {
