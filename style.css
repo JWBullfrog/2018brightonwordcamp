@@ -41,12 +41,14 @@ display:none;
 }
 .datebanner {
 	z-index: 10;
-	width: 100%;
-	text-align: center;
-	background-color: #fff;
-	top: 0;
-	color: #7A3CBC;
-	font-family: 'Roboto', sans-serif;
+    width: 100%;
+    text-align: center;
+    background-color: #fff;
+    top: 0;
+    color: #7A3CBC;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    padding-bottom: 10px;
 }
 .datebanner p{
 	margin:0;
