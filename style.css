@@ -46,6 +46,9 @@ display:none;
 	text-align:center;
 	background-color:#fff;
 }
+.site-footer .wrap {
+	padding:0
+}
 /*-- .header stuff.custom-header {
 display:none;
 } --*/
