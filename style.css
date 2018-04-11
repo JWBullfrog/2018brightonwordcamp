@@ -59,8 +59,10 @@ display:none;
 }
 .site-footer .widget-column.footer-widget-1 {
     float: none;
-    width: 100%;
-	
+    width: 100%;	
+}
+.site-info {
+	display:none
 }
 /*-- .header stuff.custom-header {
 display:none;
