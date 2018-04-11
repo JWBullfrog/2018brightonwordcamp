@@ -49,6 +49,10 @@ display:none;
 .site-footer .wrap {
 	padding:0
 }
+.site-footer .widget-column.footer-widget-1 {
+    float: none;
+    width: 100%;
+}
 /*-- .header stuff.custom-header {
 display:none;
 } --*/
