@@ -40,7 +40,7 @@ display:block;
 display:none;
 }
 .datebanner {
-	z-index: 10;
+	z-index: 0;
     width: 100%;
     text-align: center;
     background-color: #efefef;
