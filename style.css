@@ -40,11 +40,15 @@ display:block;
 display:none;
 }
 .datebanner {
-	position:absolute;
-	z-index:10;
-	width:100%;
-	text-align:center;
-	background-color:#fff;
+	position: absolute;
+	z-index: 10;
+	width: 100%;
+	text-align: center;
+	background-color: #fff;
+	top: 0;
+	margin-top: -103px;
+	color: #7A3CBC;
+	font-family: 'Roboto', sans-serif;
 }
 .datebanner p{
 	margin:0;
