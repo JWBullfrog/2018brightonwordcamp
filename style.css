@@ -48,6 +48,7 @@ display:none;
 }
 .site-footer .wrap {
 	padding:0;
+	margin:0;
 	max-width: 100%;
 }
 .site-footer .widget-column.footer-widget-1 {
