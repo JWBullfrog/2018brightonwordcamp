@@ -39,6 +39,7 @@ display:block;
 .home .custom-logo{
 display:none;
 }
+/*---- date banner ------*/
 .datebanner {
 	z-index: 0;
     width: 100%;
@@ -48,7 +49,7 @@ display:none;
     color: #7A3CBC;
     font-family: 'Roboto', sans-serif;
     position: fixed;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 .datebanner p{
 	margin:0;
@@ -63,10 +64,8 @@ display:none;
     float: none;
     width: 100%;	
 }
+/*---- date banner ------*/
 
-/*-- .header stuff.custom-header {
-display:none;
-} --*/
 .home .entry-title {
 display: none;
 }
