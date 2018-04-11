@@ -39,6 +39,13 @@ display:block;
 .home .custom-logo{
 display:none;
 }
+.datebanner {
+	position:absolute;
+	z-index:10;
+	width:100%;
+	text-align:center;
+	background-color:#fff;
+}
 /*-- .header stuff.custom-header {
 display:none;
 } --*/
