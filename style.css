@@ -46,6 +46,10 @@ display:none;
 	text-align:center;
 	background-color:#fff;
 }
+.datebanner p{
+	margin:0;
+	padding:0;
+}
 .site-footer .wrap {
 	padding:0;
 	margin:0;
