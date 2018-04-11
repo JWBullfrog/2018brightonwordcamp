@@ -47,7 +47,7 @@ display:none;
     top: 0;
     color: #7A3CBC;
     font-family: 'Roboto', sans-serif;
-    position: absolute;
+    position: fixed;
     padding-bottom: 10px;
 }
 .datebanner p{
