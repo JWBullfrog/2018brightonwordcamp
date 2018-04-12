@@ -40,20 +40,23 @@ display:block;
 display:none;
 }
 /*---- date banner ------*/
-.datebanner {
+	.datebanner {
 	z-index: 0;
-    width: 100%;
-    text-align: center;
-    background-color: #efefef;
-    top: 0;
-    color: #7A3CBC;
-    font-family: 'Roboto', sans-serif;
-    position: fixed;
-    padding-bottom: 5px;
+	width: 100%;
+	text-align: center;
+	background-color: transparent;
+	top: 5px;
+	color: #7A3CBC;
+	font-family: 'Roboto', sans-serif;
+	position: fixed;
+	padding-bottom: 10px;
 }
 .datebanner p{
-	margin:0;
-	padding:0;
+	margin: 0;
+	padding: 5px 20px;
+	border-radius: 6px;
+	background-color: #fff;
+	display: inline;
 }
 .site-footer .wrap {
 	padding:0;
