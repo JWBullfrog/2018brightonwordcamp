@@ -36,9 +36,7 @@ display:none;
 .home .wp-custom-header {
 display:block;
 }
-.home .custom-logo{
-display:none;
-}
+
 /*---- date banner ------*/
 	.datebanner {
 	z-index: 0;
@@ -58,6 +56,10 @@ display:none;
 	background-color: #fff;
 	display: inline;
 	border: 2px solid #7538bc;
+}
+.home .custom-logo,
+.home .datebanner {
+display:none;
 }
 .site-footer .wrap {
 	padding:0;
