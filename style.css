@@ -85,12 +85,15 @@ display: none;
     color: #333333;
     padding: 330px 0 30px 0;
     text-transform: uppercase;
-    margin-top: 90px;	
+    margin-top: 90px;
+	background-repeat: no-repeat;
+	background-position: center top;	
 }
 .page-slug-sponsors .wcorg-sponsor-level-pavilion h2 {
 	background-image: url(https://2018.brighton.wordcamp.org/files/2018/06/WCB18-Pavillion.jpg);
-	background-repeat: no-repeat;
-	background-position: center top;
+}
+.page-slug-sponsors .wcorg-sponsor-level-i360 h2 {
+	background-image: url(https://2018.brighton.wordcamp.org/files/2018/06/WCB18-i360.jpg;
 }
 .page-slug-sponsors h3 {
 	display:none
