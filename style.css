@@ -72,11 +72,20 @@ display:none;
     float: none;
     width: 100%;	
 }
-/*---- date banner ------*/
+/*---- .date banner ------*/
 
 .home .entry-title {
 display: none;
 }
+/*---- Sponsors page ------*/
+.page-slug-sponsors h2 {
+	font-size: 36px;
+	text-align: center;
+	font-weight:bold;
+}
+
+/*---- .Sponsors page ------*/
+
 
 /* Logo animation (slow rotation) */
 #rotatelogo,
