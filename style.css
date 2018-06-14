@@ -95,6 +95,12 @@ display: none;
 .page-slug-sponsors .wcorg-sponsor-level-i360 h2 {
 	background-image: url(https://2018.brighton.wordcamp.org/files/2018/06/WCB18-i360.jpg);
 }
+.page-slug-sponsors .wcorg-sponsor-level-brighton-pier h2 {
+	background-image: url(https://2018.brighton.wordcamp.org/files/2018/06/WCB18-Pier.jpg);
+}
+.page-slug-sponsors .wcorg-sponsor-level-west-pier h2 {
+	background-image: url(https://2018.brighton.wordcamp.org/files/2018/06/WCB18-WestPier.jpg);
+}
 .page-slug-sponsors h3 {
 	display:none
 }
