@@ -10,7 +10,9 @@ li.menu-item {
 	font-size: 14px;
 	letter-spacing: 0;
 }
-
+.main-navigation a {
+    padding: 1em 0.95em;
+}
 /* hide some stuff we don't want to see */
 span.edit-link,
 #post-2 {
