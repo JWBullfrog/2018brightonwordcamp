@@ -85,9 +85,12 @@ display: none;
 	color:#333333;
 	padding:0 30px;
 }
-h3 {
+.page-slug-sponsors h3 {
 	display:none
 }
+.page-slug-sponsors  .wcorg-sponsors ul {
+	margin-left:30px
+} 
 /*---- .Sponsors page ------*/
 
 
