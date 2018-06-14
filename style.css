@@ -79,11 +79,12 @@ display: none;
 }
 /*---- Sponsors page ------*/
 .page-slug-sponsors h2 {
-	font-size: 36px;
+	font-size: 40px;
 	text-align: center;
-	font-weight:500;
+	font-weight:600;
 	color:#333333;
 	padding:0 30px;
+	padding:30px 0
 }
 .page-slug-sponsors h3 {
 	display:none
