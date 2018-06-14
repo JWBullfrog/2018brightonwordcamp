@@ -7,7 +7,7 @@ p, li {
 
 /* don't make the menu size too big */
 li.menu-item {
-	font-size: 15px;
+	font-size: 14px;
 	letter-spacing: 0;
 }
 
