@@ -80,11 +80,12 @@ display: none;
 /*---- Sponsors page ------*/
 .page-slug-sponsors h2 {
 	font-size: 40px;
-	text-align: center;
-	font-weight:600;
-	color:#333333;
-	padding:60px 0;
-	text-transform:uppercase;	
+    text-align: center;
+    font-weight: 600;
+    color: #333333;
+    padding: 330px 0 30px 0;
+    text-transform: uppercase;
+    margin-top: 90px;	
 }
 .page-slug-sponsors .wcorg-sponsor-level-pavilion h2 {
 	background-image: url(https://2018.brighton.wordcamp.org/files/2018/06/WCB18-Pavillion.jpg);
