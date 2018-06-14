@@ -83,7 +83,7 @@ display: none;
 	text-align: center;
 	font-weight:600;
 	color:#333333;
-	padding:60px 0 30px 0;
+	padding:60px 0;
 	text-transform:uppercase;	
 }
 .page-slug-sponsors h3 {
@@ -93,7 +93,7 @@ display: none;
 	margin-left:30px
 } 
 .page-slug-sponsors .wcorg-sponsor {
-	margin-bottom:30px;
+	margin-bottom:130px;
 }
 /*---- .Sponsors page ------*/
 
