@@ -84,7 +84,9 @@ display: none;
 	font-weight:500;
 	color:#333333;
 }
-
+h3 {
+	display:none
+}
 /*---- .Sponsors page ------*/
 
 
