@@ -87,7 +87,7 @@ display: none;
 	text-transform:uppercase;	
 }
 .page-slug-sponsors .wcorg-sponsor-level-pavilion h2 {
-	background-image: https://2018.brighton.wordcamp.org/files/2018/06/WCB18-Pavillion.jpg;
+	background-image: url(https://2018.brighton.wordcamp.org/files/2018/06/WCB18-Pavillion.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
 }
