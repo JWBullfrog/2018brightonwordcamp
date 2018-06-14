@@ -92,6 +92,9 @@ display: none;
 .page-slug-sponsors  .wcorg-sponsors ul {
 	margin-left:30px
 } 
+.page-slug-sponsors .wcorg-sponsor {
+	margin-bottom:30px;
+}
 /*---- .Sponsors page ------*/
 
 
