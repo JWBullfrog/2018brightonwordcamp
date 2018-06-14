@@ -81,7 +81,8 @@ display: none;
 .page-slug-sponsors h2 {
 	font-size: 36px;
 	text-align: center;
-	font-weight:bold;
+	font-weight:500;
+	color:#333333;
 }
 
 /*---- .Sponsors page ------*/
