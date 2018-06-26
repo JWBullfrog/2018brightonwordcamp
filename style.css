@@ -116,11 +116,12 @@ display: none;
 /*---- Scheduler page ------*/
 .wcpt-session-speakers {
 display:block;
-	font-weight: 700;
+	
 	
 }
 .wcpt-session-speakers a{
 	text-decoration:none;
+	font-weight: 600;
 }
 .wcpt-session-speakers:before {
    content: "Speaker(s): ";
