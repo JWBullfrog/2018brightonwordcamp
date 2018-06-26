@@ -114,6 +114,9 @@ display: none;
 /*---- .Sponsors page ------*/
 
 /*---- Scheduler page ------*/
+.wcpt-session-title a{
+color: #351354
+}
 .wcpt-session-speakers {
 display:block;	
 }
