@@ -125,7 +125,7 @@ display:block;
 	font-weight: 600;
 }
 .wcpt-session-speakers:before {
-   content: "Spoken by: ";
+   content: "Spoken by: <br>";
 }
 /*---- Scheduler page ------*/
 /* Logo animation (slow rotation) */
