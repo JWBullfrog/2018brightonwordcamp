@@ -119,6 +119,7 @@ color: #351354
 }
 .wcpt-session-speakers {
 display:block;	
+	    padding: 10px 0 20px 0;
 }
 .wcpt-session-speakers a{
 	text-decoration:none;
