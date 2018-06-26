@@ -131,6 +131,10 @@ display:block;
 .wcb-track-one, wcb-track-workshops {
     width: 32%;
 }
+.wcpt-schedule td {
+    vertical-align: top;
+    padding: 20px 0.4em;
+}
 /*---- Scheduler page ------*/
 /* Logo animation (slow rotation) */
 #rotatelogo,
