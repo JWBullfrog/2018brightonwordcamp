@@ -135,7 +135,10 @@ display:block;
     vertical-align: top;
     padding: 20px 0.4em;
 }
-/*---- Scheduler page ------*/
+.wcpt-time {
+background:#efefef;
+}
+/*---- .Scheduler page ------*/
 /* Logo animation (slow rotation) */
 #rotatelogo,
 img.custom-logo {
