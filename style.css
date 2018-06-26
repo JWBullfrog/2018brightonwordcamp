@@ -116,7 +116,8 @@ display: none;
 /*---- Scheduler page ------*/
 .wcpt-session-speakers {
 display:block;
-	font-weight: semi-bold;
+	font-weight: 700;
+	text-decoration:none;
 }
 .wcpt-session-speaker:before {
    content: "Speaker(s): ";
