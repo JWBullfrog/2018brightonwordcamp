@@ -128,7 +128,7 @@ display:block;
 .wcpt-session-speakers:before {
    content: "Spoken by: ";
 }
-.wcb-track-one, .wcb-track-two, .wcb-track-three, {
+.wcb-track-one, wcb-track-workshops {
     width: 32%;
 }
 /*---- Scheduler page ------*/
