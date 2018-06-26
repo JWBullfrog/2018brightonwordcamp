@@ -112,10 +112,14 @@ display: none;
 }
 
 /*---- .Sponsors page ------*/
+
 /*---- Scheduler page ------*/
 .wcpt-session-speakers {
 display:block;
 	font-weight: semi-bold;
+}
+.wcpt-session-speaker:before {
+   content: "Speaker(s): ";
 }
 /*---- Scheduler page ------*/
 /* Logo animation (slow rotation) */
