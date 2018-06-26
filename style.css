@@ -117,6 +117,9 @@ display: none;
 .wcpt-session-speakers {
 display:block;
 	font-weight: 700;
+	
+}
+.wcpt-session-speakers a{
 	text-decoration:none;
 }
 .wcpt-session-speaker:before {
