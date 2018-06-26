@@ -112,8 +112,12 @@ display: none;
 }
 
 /*---- .Sponsors page ------*/
-
-
+/*---- Scheduler page ------*/
+.wcpt-session-speakers {
+display:block;
+	font-weight: semi-bold;
+}
+/*---- Scheduler page ------*/
 /* Logo animation (slow rotation) */
 #rotatelogo,
 img.custom-logo {
