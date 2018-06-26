@@ -137,6 +137,8 @@ display:block;
 }
 .wcpt-time {
 background:#efefef;
+	font-weight:bold;
+	color:#8641ce;
 }
 /*---- .Scheduler page ------*/
 /* Logo animation (slow rotation) */
