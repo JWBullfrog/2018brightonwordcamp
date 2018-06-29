@@ -132,11 +132,11 @@ display:block;
    content: "Spoken by: ";
 }
 .wcb-track-one, wcb-track-workshops {
-    width: 32%;
+    width: auto;
 }
 @media screen and (min-width: 700px) { 
 	.wcb-track-one, wcb-track-workshops {
-    	width: auto;
+    	width: 32%;
 	}
 }
 .wcpt-schedule td {
