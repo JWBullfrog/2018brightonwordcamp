@@ -134,7 +134,7 @@ display:block;
 .wcb-track-one, wcb-track-workshops {
     width: auto;
 }
-@media screen and (min-width: 700px) { 
+@media screen and (min-width: 750px) { 
 	.wcb-track-one, wcb-track-workshops {
     	width: 32%;
 	}
