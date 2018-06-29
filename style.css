@@ -134,6 +134,11 @@ display:block;
 .wcb-track-one, wcb-track-workshops {
     width: 32%;
 }
+@media screen and (min-width: 700px) { 
+	.wcb-track-one, wcb-track-workshops {
+    	width: auto;
+	}
+}
 .wcpt-schedule td {
     vertical-align: top;
     padding: 20px 0.4em;
